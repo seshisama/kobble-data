@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/myanimelist.net\/anime\/31964\/Boku_no_Hero_Academia"
+        }
+      },
+      "title" : "Information",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "My Hero Academia",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/myanimelist.net\/anime\/34572\/Black_Clover_TV"
         }
       },
