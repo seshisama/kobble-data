@@ -19,7 +19,15 @@
     {
       "isShowing" : true,
       "channels" : [
-
+        {
+          "title" : "Anime",
+          "subtitle" : "Anime",
+          "channel" : {
+            "owner" : "seshisama",
+            "path" : "channels\/anime.json",
+            "repo" : "kobble-data"
+          }
+        }
       ],
       "isToggled" : false,
       "name" : "My Channels"
